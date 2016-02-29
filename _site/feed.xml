@@ -6,31 +6,49 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Feb 2016 21:15:53 -0600</pubDate>
-    <lastBuildDate>Sun, 28 Feb 2016 21:15:53 -0600</lastBuildDate>
+    <pubDate>Sun, 28 Feb 2016 21:47:46 -0600</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2016 21:47:46 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Acer Cloudbook 11</title>
-        <description>&lt;p&gt;Pensando na minha volta ao Brazil, comecei a procurar um substituto para o macbook air
-com o qual trabalho.
-Não tenho o que reclamar do case em alumínio, do teclado, do tempo de bateria. Enfim,
-o mac que uso é melhor do que tudo o que eu já usei a nível de notebooks.&lt;/p&gt;
+        <description>&lt;p&gt;Pensando na minha volta ao Brasil, comecei a procurar um substituto para o 
+macbook air com o qual trabalho.
+Não tenho o que reclamar do case em alumínio, do teclado, do tempo de bateria. 
+Enfim, o mac que uso é melhor do que tudo o que eu já usei a nível de notebooks.&lt;/p&gt;
 
-&lt;p&gt;Mas para várias pequenas coisas me aborrecem aqui e acolá. Os updates nem sempre saem 
-como esperado. Sempre tem algo que acaba deixando de funcionar. O último problema que
-tive foi com o homebrew. A minha instalação deixou de funcionar com o El Capitan. Depois de quebrar muito
-a cabeça com o novo modo de segurança noroot da apple, acabei desistindo e voltando para
-o macports.&lt;/p&gt;
+&lt;p&gt;Mas várias pequenas coisas me aborrecem aqui e acolá. Os updates nem sempre saem 
+como esperado. Sempre tem algo que acaba deixando de funcionar. O último 
+problema que tive foi com o homebrew. A minha instalação deixou de funcionar com
+o El Capitan. Depois de quebrar muito a cabeça com o novo modo de segurança 
+noroot da apple, acabei desistindo e voltando para o macports.&lt;/p&gt;
 
-&lt;p&gt;Então estava pensando em comprar um chromebook, uma vez que eu poderia instalar o ubuntu
-e ter uma máquina leve, com alto tempo de bateria e principalmente barata. Até que me deparo com
-uma promoção do Acer Cloud Book.&lt;/p&gt;
+&lt;p&gt;Então estava pensando em comprar um chromebook, uma vez que eu poderia instalar 
+uma distro e ter uma máquina leve, com alto tempo de bateria e principalmente 
+barata. Até que me deparo com uma promoção do Acer Cloud Book.&lt;/p&gt;
+
+&lt;p&gt;Tive alguma dor de cabeça para instalar outras distros, mas o xubuntu rodou sem 
+maiores problemas.&lt;/p&gt;
+
+&lt;p&gt;A única coisa que tive que fazer a mais foi seguir os passos para instalar o 
+archlinux que achei nessa &lt;a href=&quot;https://wiki.archlinux.org/index.php/Acer_Cloudbook&quot;&gt;página&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Primeiro tive que adicionar &lt;code class=&quot;highlighter-rouge&quot;&gt;edd=off noapic modprobe.blacklist=pinctrl_cherryview&lt;/code&gt; 
+durante o boot da imagem de instalação. Depois, mudar a linha que define essas
+mesmas opções no arquivo &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/default/grub&lt;/code&gt;. É só procurar a linha que começa 
+com &lt;code class=&quot;highlighter-rouge&quot;&gt;GRUB_CMDLINE_LINUX&lt;/code&gt; e editá-la para que fique como a linha abaixa.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GRUB_CMDLINE_LINUX=&quot;quiet edd=off noapic modprobe.blacklist=pinctrl_cherryview&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;O desempenho é bom, considerando o preço. Não consigo abrir mais do que 4 ou 5
+páginas no google chrome de maneira confortável. Tentei firefox e Ópera, mas 
+ambos se mostraram muito mais lentos. Fora isso, não tenho do que
+reclamar do meu pequeno notebook.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 03 Feb 2016 00:00:00 -0600</pubDate>
-        <link>/gear/2016/02/03/pequeno_notebook.html</link>
-        <guid isPermaLink="true">/gear/2016/02/03/pequeno_notebook.html</guid>
+        <link>/gear/2016/02/03/acer_cloudbook_11.html</link>
+        <guid isPermaLink="true">/gear/2016/02/03/acer_cloudbook_11.html</guid>
         
         
         <category>gear</category>

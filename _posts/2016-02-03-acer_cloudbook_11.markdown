@@ -30,7 +30,7 @@ archlinux que achei nessa [página](https://wiki.archlinux.org/index.php/Acer_Cl
 Primeiro tive que adicionar `edd=off noapic modprobe.blacklist=pinctrl_cherryview` 
 durante o boot da imagem de instalação. Depois, mudar a linha que define essas
 mesmas opções no arquivo `/etc/default/grub`. É só procurar a linha que começa 
-com `GRUB_CMDLINE_LINUX` e editá-la para que fique como a linha abaixa.
+com `GRUB_CMDLINE_LINUX` e editá-la para que fique como a linha abaixo.
 
 `GRUB_CMDLINE_LINUX="quiet edd=off noapic modprobe.blacklist=pinctrl_cherryview` 
 
