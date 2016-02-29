@@ -6,9 +6,36 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Feb 2016 15:55:28 -0600</pubDate>
-    <lastBuildDate>Thu, 25 Feb 2016 15:55:28 -0600</lastBuildDate>
+    <pubDate>Sun, 28 Feb 2016 21:15:53 -0600</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2016 21:15:53 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Acer Cloudbook 11</title>
+        <description>&lt;p&gt;Pensando na minha volta ao Brazil, comecei a procurar um substituto para o macbook air
+com o qual trabalho.
+Não tenho o que reclamar do case em alumínio, do teclado, do tempo de bateria. Enfim,
+o mac que uso é melhor do que tudo o que eu já usei a nível de notebooks.&lt;/p&gt;
+
+&lt;p&gt;Mas para várias pequenas coisas me aborrecem aqui e acolá. Os updates nem sempre saem 
+como esperado. Sempre tem algo que acaba deixando de funcionar. O último problema que
+tive foi com o homebrew. A minha instalação deixou de funcionar com o El Capitan. Depois de quebrar muito
+a cabeça com o novo modo de segurança noroot da apple, acabei desistindo e voltando para
+o macports.&lt;/p&gt;
+
+&lt;p&gt;Então estava pensando em comprar um chromebook, uma vez que eu poderia instalar o ubuntu
+e ter uma máquina leve, com alto tempo de bateria e principalmente barata. Até que me deparo com
+uma promoção do Acer Cloud Book.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Feb 2016 00:00:00 -0600</pubDate>
+        <link>/gear/2016/02/03/pequeno_notebook.html</link>
+        <guid isPermaLink="true">/gear/2016/02/03/pequeno_notebook.html</guid>
+        
+        
+        <category>gear</category>
+        
+      </item>
     
       <item>
         <title>Orientação de Especialização - Katweurya Santana</title>

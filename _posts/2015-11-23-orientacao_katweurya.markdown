@@ -3,6 +3,7 @@ layout: post
 title:  "Orientação de Especialização - Katweurya Santana"
 date:   2015-11-23
 categories: orientação
+comments: true
 ---
 
 Nesse semestre comecei a co-orientação do trabalho de Katweurya Santana sobre a percepção 
