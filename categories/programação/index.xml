@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programação on Emanuel D S Penha</title>
+    <link>/categories/programa%C3%A7%C3%A3o/</link>
+    <description>Recent content in Programação on Emanuel D S Penha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/programa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrando para Hugo</title>
+      <link>/post/migrando-para-hugo/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/migrando-para-hugo/</guid>
+      <description>Resolvi mudar o modo com o qual escrevo (pouco, devo admitir) o blog. Antes estava usando Jekyll. Embora ache que ele cobre minhas necessidades, toda vez que tinha que instalar/configurar o Ruby, acabava investindo tempo demais. A experiência como um todo não era satisfatória.
+Então experimentei o blogdown, pacote para R do Yihui Xie. O pacote é um wrapper para Hugo e facilita bastante sua configuração, criação de posts, inserção de figuras.</description>
+    </item>
+    
+  </channel>
+</rss>
