@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emanuel D S Penha on Emanuel D S Penha</title>
+    <title>Emanuel Diego S Penha on Emanuel Diego S Penha</title>
     <link>/</link>
-    <description>Recent content in Emanuel D S Penha on Emanuel D S Penha</description>
+    <description>Recent content in Emanuel Diego S Penha on Emanuel Diego S Penha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -388,7 +388,7 @@ $(document).ready(function () {
 &lt;/div&gt;
 &lt;div id=&#34;optional-featured-image-relative-to-staticimg-folder.&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Optional featured image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
-&lt;p&gt;[header] #image = “headers/bubbles-wide.jpg” #caption = “My caption :smile:”&lt;/p&gt;
+&lt;p&gt;[header] #image = “headers/bubbles-wide.jpg” #caption = “My caption 😄”&lt;/p&gt;
 &lt;p&gt;+++&lt;/p&gt;
 &lt;p&gt;Esse é um trabalho que desenvolvi enquanto estive nos EUA, logo após o mestrado.&lt;/p&gt;
 &lt;p&gt;Isomorphic semantic mapping of variant call format (VCF2RDF).&lt;/p&gt;
